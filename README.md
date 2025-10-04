@@ -48,6 +48,10 @@ npm run dev # For development server
 npm run build # Production build
 npm run preview # Preview prod build locally
 
+## Deployment
+
+Deployed URL: https://feedback-prioritizer.onrender.com
+
 ## Credits
 
 Built using modern AI automation and rapid coding tools to accelerate development and ensure industry-standard quality and usability.
